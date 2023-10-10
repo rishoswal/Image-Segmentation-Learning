@@ -1,4 +1,4 @@
-# Image-Segmentation-Learning
+# Image Segmentation Project
 
 Project that uses the UNET image architecture through PyTorch to display and black and white mask of a picture containing a human. I also implemented data augmentations using the albumentations library to increase the amount of samples and the reliability of the model.
 
